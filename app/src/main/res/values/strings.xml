@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ContentProvider</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="title">Nicknames Directory</string>
+    <string name="name">Enter Name</string>
+    <string name="nickname">Enter Nickname</string>
+    <string name="add">ADD NEW</string>
+    <string name="show">SHOW ALL</string>
+    <string name="delete">DELETE ALL</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
